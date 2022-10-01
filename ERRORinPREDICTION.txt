@@ -1,0 +1,7 @@
+ERROR in PREDICTION (4 Patterns):
+0.016463
+0.034281
+0.087622
+0.201176
+Average Error:0.084885
+Energy of error of Predicted Output:0.006199
